@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Mar 2022 16:15:30 +0900</lastBuildDate><atom:link href="/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Manaba2TwinC</title>
+      <link>/en/projects/manaba2twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 17:40:55 +0900</pubDate>
+      
+      <guid>/en/projects/manaba2twinc/</guid>
+      <description>https://chrome.google.com/webstore/detail/tsukuba-manaba2twinc/jhgfgnmnahfddfjjipgbkfpahgfigigf
+Manaba2TwinC is a chrome extension that generates ICS file created in TwinC directly from Manaba. It&amp;rsquo;s mainly written in TypeScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
       <title>Modern Manaba</title>
       <link>/en/projects/modern-manaba/</link>
       <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
