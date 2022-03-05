@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Mimori dayo"
+theme = "hugo-theme-introduction"
+
+[params]
+    themeStyle                   = "light"                 # Choose "light" or "dark"
+    favicon                      = "/img/logo.png"          # Path to favicon file
+    showRSSButton                = true                   # Show rss button in navigation
+    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeInIndex                  = true
+    dateFormat                   = "Jan 2, 2006"
+    email                        = "mimorimori256@gmail.com"   # E-mail address for contact section
+    footerText   = "This is a static website generated with [Hugo](https://gohugo.io). The theme is called Introduction and made by Vicky Lai, and hosted on [Github Pages](https://pages.github.com/)"
+
+# Configure the home page
+    [params.home]
+        introHeight              = "medium"                 # Input either "medium" or "large" or "fullheight"
+        showLatest               = true                    # Show latest blog post summary
+        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        numberOfProjectsToShow   = 6                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+
+    [params.projects]
+        useTwoColumns            = true                   # Use a layout with two columns instead of three
+
+    [[params.social]]
+    url = "https://twitter.com/OkppGbFhZoJQRgL"
+    icon = "twitter"
+
+    [[params.social]]
+    url = "https://github.com/Mimori256"
+    icon = "github"

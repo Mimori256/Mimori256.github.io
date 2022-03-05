@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mimori dayo</title>
+    <link>/</link>
+    <description>Recent content on Mimori dayo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2022 17:28:03 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modern Manaba</title>
+      <link>/en/projects/modern-manaba/</link>
+      <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
+      
+      <guid>/en/projects/modern-manaba/</guid>
+      <description>https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli
+modern-manaba is a chrome extension that makes the UI of manaba(LSM University of Tsukuba uses) modern and cool. I developed it with a fellow student. It&amp;rsquo;s written mainly in CSS and JavaScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Grade Graph</title>
+      <link>/en/projects/grade-graph/</link>
+      <pubDate>Fri, 04 Mar 2022 17:01:03 +0900</pubDate>
+      
+      <guid>/en/projects/grade-graph/</guid>
+      <description>https://mimori256.github.io/Grade-Graph/
+It&amp;rsquo;s an web app that shows a pie chart and grade of courses you enrolled from your grade data from TWINS. It&amp;rsquo;s written in simple HTML, CSS, and TypeScript. Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Twinc</title>
+      <link>/en/projects/twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/en/projects/twinc/</guid>
+      <description>https://mimori256.github.io/twinc/ It&amp;rsquo;s an web app that converts your course data into ICS file. You can add the schedules of the course you enrolled to various calendar apps like Google Calendar. It&amp;rsquo;s written in Vue.js and Typescript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/en/home/</link>
+      <pubDate>Fri, 04 Mar 2022 15:33:46 +0900</pubDate>
+      
+      <guid>/en/home/</guid>
+      <description>I&amp;rsquo;m a college student who likes computer stuff</description>
+    </item>
+    
+  </channel>
+</rss>
