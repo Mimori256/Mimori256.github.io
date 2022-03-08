@@ -30,3 +30,16 @@ theme = "hugo-theme-introduction"
     [[params.social]]
     url = "https://github.com/Mimori256"
     icon = "github"
+
+[languages]
+    [languages.en]
+        languageName     = "English"
+        languageCode     = "en-us"
+        contentDir       = "content/en"
+        weight           = 0
+
+    [languages.ja]
+        languageName     = "日本語"
+        languageCode     = "ja"
+        contentDir       = "content/ja"
+        weight           = 0

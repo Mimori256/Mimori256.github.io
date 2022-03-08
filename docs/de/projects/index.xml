@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Mimori dayo</title>
+    <link>/de/projects/</link>
+    <description>Recent content in Works on Mimori dayo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 02 Mar 2022 16:15:30 +0900</lastBuildDate><atom:link href="/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manaba2TwinC</title>
+      <link>/de/projects/manaba2twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 17:40:55 +0900</pubDate>
+      
+      <guid>/de/projects/manaba2twinc/</guid>
+      <description>https://chrome.google.com/webstore/detail/tsukuba-manaba2twinc/jhgfgnmnahfddfjjipgbkfpahgfigigf
+Manabaから授業のICSファイルを直接つくるChrome拡張です。主にTypeScriptで書かれています。
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Modern Manaba</title>
+      <link>/de/projects/modern-manaba/</link>
+      <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
+      
+      <guid>/de/projects/modern-manaba/</guid>
+      <description>https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli
+ManabaのUIをモダンで綺麗にするChrome拡張です。この拡張機能は、同じ筑波大学の学生と作りました。主にCSSとJavaScriptで作られています。
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Grade Graph</title>
+      <link>/de/projects/grade-graph/</link>
+      <pubDate>Fri, 04 Mar 2022 17:01:03 +0900</pubDate>
+      
+      <guid>/de/projects/grade-graph/</guid>
+      <description>https://mimori256.github.io/Grade-Graph/
+TWINSの成績データから円グラフやGPAを表示します。シンプルなHTML, CSS, TypeScriptを使って作りました。
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Twinc</title>
+      <link>/de/projects/twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/de/projects/twinc/</guid>
+      <description>https://mimori256.github.io/twinc/ 履修登録している授業のスケジュールをICSファイルに変換して、Googleカレンダーなどの様々なカレンダーアプリに授業のスケジュールを簡単に登録するためのWebアプリです。Vue.jsとTypeScriptを使っています。
+Source code is available on GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,4 +22,4 @@ Tetris, Civ, Street Fighter Series, Random mobile puzzle games
 I do love to learn new things!
 
 **What I'm interested in**    
-Computer Science, Mathematics, Language, Linguistics, theology, Musical Grammar  
+Computer Science, Mathematics, Language, Linguistics, Theology, Musical Grammar  
