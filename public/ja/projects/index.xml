@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Mimori dayo</title>
+    <link>/ja/projects/</link>
+    <description>Recent content in Works on Mimori dayo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 02 Mar 2022 16:15:30 +0900</lastBuildDate><atom:link href="/ja/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modern Manaba</title>
+      <link>/ja/projects/modern-manaba/</link>
+      <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
+      
+      <guid>/ja/projects/modern-manaba/</guid>
+      <description>https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli
+ManabaのUIをモダンで綺麗にするChrome拡張です。この拡張機能は、同じ筑波大学の学生と作りました。主にCSSとJavaScriptで作られています。
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Grade Graph</title>
+      <link>/ja/projects/grade-graph/</link>
+      <pubDate>Fri, 04 Mar 2022 17:01:03 +0900</pubDate>
+      
+      <guid>/ja/projects/grade-graph/</guid>
+      <description>https://mimori256.github.io/Grade-Graph/
+TWINSの成績データから円グラフやGPAを表示します。シンプルなHTML, CSS, TypeScriptを使って作りました。
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Graduation-Checker</title>
+      <link>/ja/projects/graduation-checker/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/ja/projects/graduation-checker/</guid>
+      <description>https://mimori256.github.io/Graduation-Checker/
+履修が卒業要件を満たしているか確認することのできるツールです。 Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Twinc</title>
+      <link>/ja/projects/twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/ja/projects/twinc/</guid>
+      <description>https://mimori256.github.io/twinc/ 履修登録している授業のスケジュールをICSファイルに変換して、Googleカレンダーなどの様々なカレンダーアプリに授業のスケジュールを簡単に登録するためのWebアプリです。Vue.jsとTypeScriptを使っています。
+Source code is available on GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

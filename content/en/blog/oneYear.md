@@ -12,7 +12,7 @@ Almost it's been one year since I entered the University of Tsukuba. So I'd like
 
 I applied for SCS(School of Comprehensive Study), which is the department of the University of Tsukuba. One of the main reasons I applied for SCS is that AT FIRST I thought I could take courses freely without restriction. (It turned out that's not the case later)
 
-After the acceptance announcement, I immediately made my Twitter account (it was the first time to made a Twitter account BTW) and send the SCS Twitter account for freshmen to let me in the LINE group. It's just my personal opinion but you should have a Twitter account whether you tweet or not. ~~I almost went to the wrong university hall on the entrance day, but I was saved by a certain kind follower...~~  
+After the acceptance announcement, I immediately made my Twitter account (it was the first time to create a Twitter account BTW) and send the SCS Twitter account for freshmen to let me in the LINE group. It's just my personal opinion but you should have a Twitter account whether you tweet or not. ~~I almost went to the wrong university hall on the entrance day, but I was saved by a certain kind follower...~~  
 
 My home isn't much far away from the university. So whether to start living alone was the biggest decision for me before entering university. But since I thought most of the classes will be online this year, I ended up not living alone. I'll live in Tsukuba when the situation becomes better.  
 
