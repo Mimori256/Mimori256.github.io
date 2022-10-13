@@ -8,17 +8,6 @@
     <language>ja</language>
     <lastBuildDate>Wed, 02 Mar 2022 16:15:30 +0900</lastBuildDate><atom:link href="/ja/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Manaba2TwinC</title>
-      <link>/ja/projects/manaba2twinc/</link>
-      <pubDate>Fri, 04 Mar 2022 17:40:55 +0900</pubDate>
-      
-      <guid>/ja/projects/manaba2twinc/</guid>
-      <description>https://chrome.google.com/webstore/detail/tsukuba-manaba2twinc/jhgfgnmnahfddfjjipgbkfpahgfigigf
-Manabaから授業のICSファイルを直接つくるChrome拡張です。主にTypeScriptで書かれています。
-Source code is available on GitHub</description>
-    </item>
-    
-    <item>
       <title>Modern Manaba</title>
       <link>/ja/projects/modern-manaba/</link>
       <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
@@ -38,6 +27,16 @@ Source code is available on GitHub</description>
       <description>https://mimori256.github.io/Grade-Graph/
 TWINSの成績データから円グラフやGPAを表示します。シンプルなHTML, CSS, TypeScriptを使って作りました。
 Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Graduation-Checker</title>
+      <link>/ja/projects/graduation-checker/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/ja/projects/graduation-checker/</guid>
+      <description>https://mimori256.github.io/Graduation-Checker/
+履修が卒業要件を満たしているか確認することのできるツールです。 Source code is available on GitHub</description>
     </item>
     
     <item>

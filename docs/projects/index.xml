@@ -8,17 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Mar 2022 16:15:30 +0900</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Manaba2TwinC</title>
-      <link>/projects/manaba2twinc/</link>
-      <pubDate>Fri, 04 Mar 2022 17:40:55 +0900</pubDate>
-      
-      <guid>/projects/manaba2twinc/</guid>
-      <description>https://chrome.google.com/webstore/detail/tsukuba-manaba2twinc/jhgfgnmnahfddfjjipgbkfpahgfigigf
-Manaba2TwinC is a chrome extension that generates ICS file created in TwinC directly from Manaba. It&amp;rsquo;s mainly written in TypeScript.
-Source code is available on GitHub</description>
-    </item>
-    
-    <item>
       <title>Modern Manaba</title>
       <link>/projects/modern-manaba/</link>
       <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
@@ -36,7 +25,18 @@ Source code is available on GitHub</description>
       
       <guid>/projects/grade-graph/</guid>
       <description>https://mimori256.github.io/Grade-Graph/
-It&amp;rsquo;s an web app that shows a pie chart and grade of courses you enrolled from your grade data from TWINS. It&amp;rsquo;s written in simple HTML, CSS, and TypeScript. Source code is available on GitHub</description>
+It&amp;rsquo;s a web app that shows a pie chart and grade of courses you enrolled from your grade data from TWINS. It&amp;rsquo;s written in simple HTML, CSS, and TypeScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Graduation-Checker</title>
+      <link>/projects/graduation-checker/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/projects/graduation-checker/</guid>
+      <description>https://mimori256.github.io/Graduation-Checker/
+It&amp;rsquo;s a website where you can check if your course taking matches to the graduation requirements Source code is available on GitHub</description>
     </item>
     
     <item>
@@ -45,7 +45,8 @@ It&amp;rsquo;s an web app that shows a pie chart and grade of courses you enroll
       <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
       
       <guid>/projects/twinc/</guid>
-      <description>https://mimori256.github.io/twinc/ It&amp;rsquo;s an web app that converts your course data into ICS file. You can add the schedules of the course you enrolled to various calendar apps like Google Calendar. It&amp;rsquo;s written in Vue.js and TypeScript.
+      <description>https://mimori256.github.io/twinc/
+It&amp;rsquo;s a web app that converts your course data into ICS file. You can add the schedules of the course you enrolled to various calendar apps like Google Calendar. It&amp;rsquo;s written in Vue.js and TypeScript.
 Source code is available on GitHub</description>
     </item>
     
