@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mimori dayo</title>
+    <link>/</link>
+    <description>Recent content on Mimori dayo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Mar 2022 14:15:07 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transfer</title>
+      <link>/blog/transfer/</link>
+      <pubDate>Mon, 14 Mar 2022 14:15:07 +0900</pubDate>
+      
+      <guid>/blog/transfer/</guid>
+      <description>I will be a sophomore of MAST(The College of Media Arts, Science and Technology) of the University of Tsukuba. I fell relieved that the transfer went well. But it&amp;rsquo;s not the end; I gotta study more as a college student who majors in CS.</description>
+    </item>
+    
+    <item>
+      <title>Modern Manaba</title>
+      <link>/projects/modern-manaba/</link>
+      <pubDate>Fri, 04 Mar 2022 17:28:03 +0900</pubDate>
+      
+      <guid>/projects/modern-manaba/</guid>
+      <description>https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli
+modern-manaba is a chrome extension that makes the UI of manaba(LSM University of Tsukuba uses) modern and cool. I developed it with a fellow student. It&amp;rsquo;s written mainly in CSS and JavaScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Grade Graph</title>
+      <link>/projects/grade-graph/</link>
+      <pubDate>Fri, 04 Mar 2022 17:01:03 +0900</pubDate>
+      
+      <guid>/projects/grade-graph/</guid>
+      <description>https://mimori256.github.io/Grade-Graph/
+It&amp;rsquo;s a web app that shows a pie chart and grade of courses you enrolled from your grade data from TWINS. It&amp;rsquo;s written in simple HTML, CSS, and TypeScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Graduation-Checker</title>
+      <link>/projects/graduation-checker/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/projects/graduation-checker/</guid>
+      <description>https://mimori256.github.io/Graduation-Checker/
+It&amp;rsquo;s a website where you can check if your course taking matches to the graduation requirements Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Twinc</title>
+      <link>/projects/twinc/</link>
+      <pubDate>Fri, 04 Mar 2022 16:17:01 +0900</pubDate>
+      
+      <guid>/projects/twinc/</guid>
+      <description>https://mimori256.github.io/twinc/
+It&amp;rsquo;s a web app that converts your course data into ICS file. You can add the schedules of the course you enrolled to various calendar apps like Google Calendar. It&amp;rsquo;s written in Vue.js and TypeScript.
+Source code is available on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/home/</link>
+      <pubDate>Fri, 04 Mar 2022 15:33:46 +0900</pubDate>
+      
+      <guid>/home/</guid>
+      <description>I&amp;rsquo;m a college student who likes computer stuff</description>
+    </item>
+    
+  </channel>
+</rss>

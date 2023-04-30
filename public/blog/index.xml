@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Mimori dayo</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Mimori dayo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 14:39:18 +0900</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transfer</title>
+      <link>/blog/transfer/</link>
+      <pubDate>Mon, 14 Mar 2022 14:15:07 +0900</pubDate>
+      
+      <guid>/blog/transfer/</guid>
+      <description>I will be a sophomore of MAST(The College of Media Arts, Science and Technology) of the University of Tsukuba. I fell relieved that the transfer went well. But it&amp;rsquo;s not the end; I gotta study more as a college student who majors in CS.</description>
+    </item>
+    
+  </channel>
+</rss>
